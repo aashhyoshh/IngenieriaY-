@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <title>Ingeniería Y — Las ideas no tienen límites</title>
+  <defs><clipPath id="panel"><rect x="820" y="48" width="332" height="534" rx="12"/></clipPath></defs>
+  <rect width="1200" height="630" fill="#001233"/>
+  <g font-family="Arial, sans-serif">
+    <text x="62" y="102" font-size="42" font-weight="700" fill="#f4f8fc">ingeniería<tspan fill="#89C2D9">y</tspan></text>
+    <rect x="64" y="163" width="9" height="9" fill="#89C2D9"/>
+    <text x="89" y="173" font-size="15" letter-spacing="2" fill="#A9D6E5">UNA REVISTA. MUCHAS PERSPECTIVAS.</text>
+    <text x="58" y="301" font-size="94" font-weight="700" letter-spacing="-4" fill="#f4f8fc">Las ideas</text>
+    <text x="60" y="391" font-size="79" font-weight="700" letter-spacing="-4" fill="#89C2D9">no tienen límites.</text>
+    <text x="64" y="468" font-size="24" fill="#A9D6E5">Ingeniería, ciencia y creatividad.</text>
+    <line x1="64" y1="526" x2="754" y2="526" stroke="#33415C"/>
+    <text x="64" y="561" font-size="16" letter-spacing="2" fill="#979DAC">INGENIERIA-Y.VERCEL.APP</text>
+  </g>
+  <rect x="820" y="48" width="332" height="534" rx="12" fill="#0466C8"/>
+  <g clip-path="url(#panel)">
+    <g fill="none" stroke="#89C2D9" stroke-width="2" opacity=".65">
+      <ellipse cx="986" cy="315" rx="265" ry="146" transform="rotate(-52 986 315)"/>
+      <ellipse cx="986" cy="315" rx="265" ry="146" transform="rotate(52 986 315)"/>
+    </g>
+    <path d="M110 95h80l66 115 66-115h80L294 287v129h-76V287Z" transform="translate(752 72) scale(.92 1.22)" fill="#A9D6E5"/>
+  </g>
+</svg>

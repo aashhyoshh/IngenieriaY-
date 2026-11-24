@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Ingeniería Y</title>
+  <rect width="512" height="512" rx="112" fill="#001233"/>
+  <g fill="none" stroke="#468FAF" stroke-width="9" opacity=".65">
+    <ellipse cx="256" cy="256" rx="210" ry="110" transform="rotate(-38 256 256)"/>
+    <ellipse cx="256" cy="256" rx="210" ry="110" transform="rotate(38 256 256)"/>
+  </g>
+  <path d="M110 95h80l66 115 66-115h80L294 287v129h-76V287Z" fill="#A9D6E5"/>
+</svg>

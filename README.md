@@ -62,3 +62,11 @@ vercel --prod
 ```
 
 La instalación de GitHub de Vercel debe tener acceso al repositorio para habilitar despliegues automáticos desde Git. La publicación manual por CLI funciona independientemente de esa integración.
+
+## Identidad cromática
+
+La interfaz combina las paletas Coastal Blues y Deep Sea Blue, cuyos PDF originales se conservan en `docs/brand/palettes/`. Los colores se definen como variables CSS en `src/styles.css`: azul profundo `#001233` como fondo, `#001845` y `#012A4A` para superficies, `#0466C8` para la composición principal y `#89C2D9` / `#A9D6E5` para acentos y áreas claras. Se emplea un blanco frío neutro para el texto principal.
+
+Estos archivos son referencias de marca y no forman parte del catálogo de revistas.
+
+La marca incluye un favicon SVG, versiones PNG/ICO y un icono para dispositivos Apple. `public/social-cover.svg` es la portada editable de la vista previa al compartir; `public/social-cover.png` es su exportación de 1200 × 630. Las etiquetas Open Graph y Twitter se definen en `index.html`.
